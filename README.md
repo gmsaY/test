@@ -1,2 +1,2 @@
 "# test" 
-pull the changes in the remote directory 
+pull the changes to the remote directory 
